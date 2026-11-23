@@ -20,7 +20,7 @@ function isEligible(mark, attendance) {
 }
 const students = [
     {name: "Itumeleng", mark:78, attendance: 80},
-    {name: "Tshepo", mark:58, attendance: 79},
+    {name: "Karabo", mark:58, attendance: 79},
     {name: "Babalwa", mark:90, attendance: 85},
     {name: "Tshepo", mark:45, attendance: 87}
 ];
